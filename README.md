@@ -1,4 +1,4 @@
 # testrep
 # edit for commit
 # edit for diff
-# edit file for push
+# edit file for merge test
